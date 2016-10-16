@@ -13,12 +13,12 @@
 		<property name="connection.driver_class">oracle.jdbc.driver.OracleDriver</property>
 
 		<property name="connection.url">jdbc:oracle:thin:@localhost:1521:xe</property>
-		<property name="connection.username">biblioteca.hb</property>  
+		<property name="connection.username">bibliotecahb1</property>  
 		
 <!-- 		//1 metto nome connessione -->
 		
 		
-		<property name="connection.password">bibliotecahb</property>
+		<property name="connection.password">bibliotecahb1</property>
 		
 <!-- 		//2 metto pass connessione -->
 		
